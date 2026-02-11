@@ -2,6 +2,6 @@
 # LEIA salario
 # novoSalario = salario + (salario * 25 / 100)
 # ESCREVA novoSalario
-salario = float(input('Digite o salário aqui: '))
+salario = float(input('Digite o salário aqui: R$'))
 novosalario = salario + (salario * 25 / 100)
-print('O resultado do salário digitado com um aumento de 25% é de: ', novosalario)
+print('O resultado do salário digitado com um aumento de 25% é de: R$', novosalario)
