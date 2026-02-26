@@ -1,3 +1,6 @@
+#12. Faça um programa que receba dois números, calcule e mostre um elevado ao outro. #Use os caracteres **
+
+
 num1 = int(input('Digite o primeiro número: '))
 num2 = int(input('Digite o segundo número: '))
 num1elev = num1 ** num2
